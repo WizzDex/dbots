@@ -1,0 +1,22 @@
+{
+    "bot": {
+        "token": "NjkwNTE5MjM1MDI1MTc0NTM4.XnSmJg.OsS3g3Vv_3P8hPC4ILkI8vsFYK8",
+        "secret": "abbMxHxQIag9d9H0_tikOnPw_iUlyfv-",
+        "ownerId": "580358240014172181",
+        "activity": "website.co",
+        "id": "690519235025174538"
+    },
+    "guild": {
+        "botRoleId": "770723011841097819",
+        "devRoleId": "735521818290684015",
+        "id": "735382037090795541",
+        "logChannelId": "770696963913285663"
+    },
+    "api": {
+        "url": "https://storm-icy-promise.glitch.me/api/v1",
+        "port": "3000",
+        "supportInvite": "HqX9pEw"
+    },
+    "dashboardURL": "https://storm-icy-promise.glitch.me",
+    "mongoURL": "mongodb+srv://Deozi:1M-27276mw@bot-list.usm2w.mongodb.net/botlist?retryWrites=true&w=majority"
+}
